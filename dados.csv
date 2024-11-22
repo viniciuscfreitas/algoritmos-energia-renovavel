@@ -1,0 +1,21 @@
+pais,populacao,pib_per_capita,emissoes_co2,energia_nuclear,energia_eolica
+Brasil,212,14400,467,0,60
+Estados Unidos,331,63500,5000,800,300
+China,1439,10400,10000,350,500
+Alemanha,83,46000,800,70,150
+Índia,1380,2100,2500,40,60
+França,67,42000,300,400,100
+Japão,126,39000,1000,100,50
+Reino Unido,67,43000,350,50,70
+Canadá,38,46300,500,100,80
+Rússia,144,11800,1500,150,20
+Itália,60,35300,400,0,30
+Coreia do Sul,52,35400,600,90,40
+Espanha,47,31000,320,0,50
+México,126,8900,450,0,20
+África do Sul,59,6600,430,0,10
+Noruega,5,79000,30,0,40
+Suécia,10,58000,40,50,70
+Dinamarca,6,68000,20,0,40
+Argentina,45,10100,210,0,20
+Austrália,25,54000,300,0,150
